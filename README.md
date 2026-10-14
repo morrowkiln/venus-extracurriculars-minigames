@@ -18,7 +18,7 @@ and not on the Venus Extracurriculars repository.
 - **[MK] Sports**: Foot Race, Swim Race, Rink Race.
 
 The framework is a mod on its own: the packs are separate mods that need it, and anyone can build
-a pack. [`MODDING.md`](MODDING.md) has a section on writing one.
+a pack. [`docs/mods/mini-games.md`](docs/mods/mini-games.md) explains how.
 
 ## Installing
 
