@@ -1,3 +1,54 @@
+# Venus Extracurriculars: Mini-games beta
+
+**An unofficial beta by morrowkiln.** This is the [Venus Extracurriculars](https://github.com/venus-extracurriculars/build)
+community build with one addition: a mini-games framework and four packs of games, played inside
+a scene with the girls who are there. It is not an official Venus Extracurriculars release, and
+it is not made or supported by Venus Dev. Please report problems with it here, not to Venus Dev
+and not on the Venus Extracurriculars repository.
+
+## What it adds
+
+- **Mini-games**, the framework: offer a game to one girl or several from the seat in the scene,
+  or agree to one in the story; girls suggest games themselves where it fits; the result goes
+  back into the scene and her memories. Each game has its own page in **Mods**, with its options.
+- **[MK] Card Games**: High-Low, Blackjack, Poker, Cat Pairs.
+- **[MK] Arcade & Bar Games**: Air Hockey, PARADISO, Pool, Bowling, Skee-Ball, Hoop Shot,
+  Whack-a-Bun, Claw Machine.
+- **[MK] Party Games**: Beer Pong, Truth or Dare.
+- **[MK] Sports**: Foot Race, Swim Race, Rink Race.
+
+The framework is a mod on its own: the packs are separate mods that need it, and anyone can build
+a pack. [`MODDING.md`](MODDING.md) has a section on writing one.
+
+## Installing
+
+1. You need the official Venus University **0.4.0** for Windows from
+   [itch.io](https://venus-dev.itch.io/venus-university). If Venus Extracurriculars or another mod
+   is installed on it, uninstall that first.
+2. Back up your saves (`data` in the game's folder).
+3. Download `Venus-Extracurriculars-0.1.0-minigames-beta.1-no-exe.zip` from
+   [Releases](../../releases), unzip it, run `Install.cmd` and pick the game's folder.
+4. To go back, run `Uninstall.cmd` from the same zip.
+
+Every mod, the mini-games included, can be switched on or off from **Mods** on the main menu.
+
+## Reporting a problem
+
+Press **Copy bug report** at the game's table, or on the game's page in **Mods**, and paste it into
+an [issue](../../issues) with a few words on what happened. It carries the game, its settings and
+how it stood; what was riding on the game is left out.
+
+## Source
+
+`main` is the Venus Extracurriculars `main` merged with the mini-games. The code is under
+AGPL-3.0-only ([`LICENSE`](LICENSE)); the game's images, music and characters are © Venus Dev and
+are not covered by it ([`LICENSE-ASSETS.md`](LICENSE-ASSETS.md)). Each community mod belongs to
+its author.
+
+---
+
+*The Venus Extracurriculars README follows.*
+
 # Venus Extracurriculars
 
 An unofficial, fan-made community build of [Venus University](https://venus-dev.itch.io/venus-university),
